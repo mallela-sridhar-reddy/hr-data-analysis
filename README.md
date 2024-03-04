@@ -16,7 +16,7 @@ This report was done as a portfolio project by *Sridhar Reddy* to showcase my da
 
 ## screenshots of project
 page 1 - ![Screenshot 2024-03-04 155714](https://github.com/mallela-sridhar-reddy/hr-data-analysis/assets/115725595/2a1c8b69-868c-4ea5-b01c-e601b9ae225c)
-page 2 - 
+page 2 - ![Screenshot 2024-03-04 155736](https://github.com/mallela-sridhar-reddy/hr-data-analysis/assets/115725595/c70ba62b-a8a0-4a1f-9b9e-b7fb8bae726d)
 
 
 All the source CSV files (containing information about transactions, returns, products, customers and territories) were made available in the github repository itself. 
