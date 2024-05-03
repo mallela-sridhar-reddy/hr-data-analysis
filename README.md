@@ -1,3 +1,5 @@
+[Live dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiODk0MGE3NjEtMmNiNS00MTZhLTgwOWYtZmRiZDZmZDczYjQxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 # Hr Employee distribution report
 
 This report was done as a portfolio project by *Sridhar Reddy* to showcase my data analyst skills.
